@@ -22,6 +22,8 @@
   - [E-123 Omega](http://gamebanana.com/skins/149859)
 - Fox
   - [Wolf](http://gamebanana.com/skins/147147) with [Wolf over Fox Voice](http://gamebanana.com/gamefiles/4822) and [Nameplate]
+- Ike
+  - [Specter Knight](http://gamebanana.com/skins/150596)
 - Jigglypuff
   - [Punished "Venom" Jigglypuff](http://gamebanana.com/skins/146288)
   - [Witch Hat Jigglypuff](http://gamebanana.com/skins/149942)
@@ -82,6 +84,7 @@
   - [Jet Set Sonic](http://gamebanana.com/skins/149367)
 - Toon Link
   - [Shovel Knight](http://gamebanana.com/skins/149434)
+  - [Black Knight](http://gamebanana.com/skins/150583)
   - [AlttP Toon Link](http://gamebanana.com/skins/145495)
   - [Spirit Track Royal Engineer](http://gamebanana.com/skins/148592)
   - [Outset Link Costume](http://gamebanana.com/skins/149310)
