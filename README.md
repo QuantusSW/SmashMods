@@ -1,6 +1,103 @@
 # SmashMods
 
 ## Mods
+### Skins
+- Bowser
+  - [Meowser](http://gamebanana.com/skins/148096)
+  - [Dry Bowser](http://gamebanana.com/skins/149147)
+- Captain Falcon
+  - [Captain Cola](http://gamebanana.com/skins/146278)
+  - [Captain Pepsi Man](http://gamebanana.com/skins/146246)
+  - [Captain Rainbow Falcon](http://gamebanana.com/skins/150292)
+  - [Blood Falcon](http://gamebanana.com/skins/146086)
+  - [Classic Captain Falcon](http://gamebanana.com/skins/148165)
+  - [Nova](http://gamebanana.com/skins/149703) with [UMVC3 - Nova Voice](http://gamebanana.com/sounds/33083)
+- Charizard
+  - [Armored Charizard](http://gamebanana.com/skins/149817)
+- Cloud
+  - [Zack Fair](http://gamebanana.com/skins/149444)
+  - [FF7 Overworld Cloud Pack](http://gamebanana.com/skins/150035)
+- Donkey Kong
+  - [Silhouette Donkey Kong](http://gamebanana.com/skins/149996)
+  - [E-123 Omega](http://gamebanana.com/skins/149859)
+- Fox
+  - [Wolf](http://gamebanana.com/skins/147147) with [Wolf over Fox Voice](http://gamebanana.com/gamefiles/4822)
+- Jigglypuff
+  - [Punished "Venom" Jigglypuff](http://gamebanana.com/skins/146288)
+  - [Witch Hat Jigglypuff](http://gamebanana.com/skins/149942)
+  - [Zeppeli Hat for Jigglypuff](http://gamebanana.com/skins/148254)
+  - [Nerdypuff](http://gamebanana.com/skins/148277)
+  - [Jigglypool](http://gamebanana.com/skins/146168)
+- Link
+  - [Outset Island Adult Link](http://gamebanana.com/skins/148030)
+  - [Breath of the Wild Link](http://gamebanana.com/skins/145841)
+- Lucario
+  - [Lucariookami](http://gamebanana.com/skins/148583)
+  - [Mega Lucario](http://gamebanana.com/skins/145668)
+- Lucas
+  - [Ashley](http://gamebanana.com/skins/150167)
+- Lucina
+  - [Robin Lucina](http://gamebanana.com/skins/147039)
+  - [Olivia Lucina](http://gamebanana.com/skins/146979)
+  - [Corrin Lucina](http://gamebanana.com/skins/147705)
+  - [Azura Lucina](http://gamebanana.com/skins/145655)
+  - [Hoshidan Lucina](http://gamebanana.com/skins/148021)
+  - [Nohrian Lucina](http://gamebanana.com/skins/148092)
+  - [Asuna Lucina](http://gamebanana.com/skins/146002)
+- Luigi
+  - [NES Open Luigi](http://gamebanana.com/skins/145963)
+  - [Mr.L](http://gamebanana.com/skins/145658)
+- Mario
+  - [Mr.M](http://gamebanana.com/skins/146228)
+  - [Shadow Mario](http://gamebanana.com/skins/148785)
+- Marth
+  - [Caeda Marth](http://gamebanana.com/skins/147965)
+  - [Robin Marth](http://gamebanana.com/skins/146355)
+  - [Ghirahim](http://gamebanana.com/skins/147236)
+- Meta Knight
+  - [Galacta Knight](http://gamebanana.com/skins/148836)
+  - [Kirby-Knight](http://gamebanana.com/skins/150010)
+- Mewtwo
+  - [Shadow Mewtwo](http://gamebanana.com/skins/146261)
+  - [Armored Mewtwo](http://gamebanana.com/skins/148622)
+- Pac-Man
+  - [Ms. Pac-Man](http://gamebanana.com/skins/149791)
+- Peach
+  - [Timpani Peach](http://gamebanana.com/skins/149477)
+- Pikachu
+  - [Pikachu Kamina](http://gamebanana.com/skins/147024)
+- Roy
+  - [Awakening Roy](http://gamebanana.com/skins/146327)
+  - [Zero](http://gamebanana.com/skins/149041)
+  - [Isaac](http://gamebanana.com/skins/149005)
+- Ryu
+  - [Ken](http://gamebanana.com/skins/150064) with [Ken over Ryu Voice](http://gamebanana.com/sounds/30363) and [Ken Nameplate](http://gamebanana.com/guis/32028)
+- Samus
+  - [Light Suit Samus](http://gamebanana.com/skins/150169)
+- Sheik
+  - [Hyrule Warriors Skin](http://gamebanana.com/skins/148680)
+- Sonic
+  - [Super Sonic](http://gamebanana.com/skins/146149)
+  - [Link Sonic](http://gamebanana.com/skins/150247)
+  - [Jet Set Sonic](http://gamebanana.com/skins/149367)
+- Toon Link
+  - [Shovel Knight](http://gamebanana.com/skins/149434)
+  - [AlttP Toon Link](http://gamebanana.com/skins/145495)
+  - [Spirit Track Royal Engineer](http://gamebanana.com/skins/148592)
+  - [Outset Link Costume](http://gamebanana.com/skins/149310)
+  - [BotW Toon Link](http://gamebanana.com/skins/147131)
+- Villager
+  - [New Leaf Female Villager](http://gamebanana.com/skins/146312)
+  - [Miku Villager](http://gamebanana.com/skins/148641)
+  - [Rin Villager](http://gamebanana.com/skins/150083)
+  - [Isabelle](http://gamebanana.com/skins/148856)
+- Zelda
+  - [Golden Mage Zelda](http://gamebanana.com/skins/146243)
+  - [Hyrule Warriors Skin](http://gamebanana.com/skins/150442)
+- Zero Suit Samus
+  - [Modern Samus](http://gamebanana.com/skins/145856)
+  - [Tifa ZSS](http://gamebanana.com/skins/148023) with [Tifa ZSS CSPs](http://gamebanana.com/guis/31591)
+
 ### Stages
 - [Hazardless Garden of Hope](http://gamebanana.com/maps/192695)
 - [Hazardless Hyrule Castle 64](http://gamebanana.com/maps/190431)
