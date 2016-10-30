@@ -3,7 +3,7 @@
 ## Mods
 ### Skins
 - Bowser
-  - [Meowser](http://gamebanana.com/skins/148096)
+  - [Meowser](http://gamebanana.com/skins/148096) with [Nameplate]
   - [Dry Bowser](http://gamebanana.com/skins/149147)
 - Captain Falcon
   - [Captain Cola](http://gamebanana.com/skins/146278)
@@ -11,7 +11,7 @@
   - [Captain Rainbow Falcon](http://gamebanana.com/skins/150292)
   - [Blood Falcon](http://gamebanana.com/skins/146086)
   - [Classic Captain Falcon](http://gamebanana.com/skins/148165)
-  - [Nova](http://gamebanana.com/skins/149703) with [UMVC3 - Nova Voice](http://gamebanana.com/sounds/33083)
+  - [Nova](http://gamebanana.com/skins/149703) with [UMVC3 - Nova Voice](http://gamebanana.com/sounds/33083) and [Nameplate]
 - Charizard
   - [Armored Charizard](http://gamebanana.com/skins/149817)
 - Cloud
@@ -21,7 +21,7 @@
   - [Silhouette Donkey Kong](http://gamebanana.com/skins/149996)
   - [E-123 Omega](http://gamebanana.com/skins/149859)
 - Fox
-  - [Wolf](http://gamebanana.com/skins/147147) with [Wolf over Fox Voice](http://gamebanana.com/gamefiles/4822)
+  - [Wolf](http://gamebanana.com/skins/147147) with [Wolf over Fox Voice](http://gamebanana.com/gamefiles/4822) and [Nameplate]
 - Jigglypuff
   - [Punished "Venom" Jigglypuff](http://gamebanana.com/skins/146288)
   - [Witch Hat Jigglypuff](http://gamebanana.com/skins/149942)
@@ -33,7 +33,7 @@
   - [Breath of the Wild Link](http://gamebanana.com/skins/145841)
 - Lucario
   - [Lucariookami](http://gamebanana.com/skins/148583)
-  - [Mega Lucario](http://gamebanana.com/skins/145668)
+  - [Mega Lucario](http://gamebanana.com/skins/145668) with [Nameplate]
 - Lucas
   - [Ashley](http://gamebanana.com/skins/150167)
 - Lucina
@@ -46,9 +46,9 @@
   - [Asuna Lucina](http://gamebanana.com/skins/146002)
 - Luigi
   - [NES Open Luigi](http://gamebanana.com/skins/145963)
-  - [Mr.L](http://gamebanana.com/skins/145658)
+  - [Mr.L](http://gamebanana.com/skins/145658) with [Nameplate]
 - Mario
-  - [Mr.M](http://gamebanana.com/skins/146228)
+  - [Mr.M](http://gamebanana.com/skins/146228) with [Nameplate]
   - [Shadow Mario](http://gamebanana.com/skins/148785)
 - Marth
   - [Caeda Marth](http://gamebanana.com/skins/147965)
@@ -90,7 +90,7 @@
   - [New Leaf Female Villager](http://gamebanana.com/skins/146312)
   - [Miku Villager](http://gamebanana.com/skins/148641)
   - [Rin Villager](http://gamebanana.com/skins/150083)
-  - [Isabelle](http://gamebanana.com/skins/148856)
+  - [Isabelle](http://gamebanana.com/skins/148856) with [Nameplate]
 - Zelda
   - [Golden Mage Zelda](http://gamebanana.com/skins/146243)
   - [Hyrule Warriors Skin](http://gamebanana.com/skins/150442)
@@ -114,3 +114,5 @@
 - [Magicant](http://gamebanana.com/maps/191551)
 - [Yoshi's Story](http://gamebanana.com/maps/191719)
 - [WarioWare, Inc.](http://gamebanana.com/maps/191688)
+
+[Nameplate]: <http://gamebanana.com/guis/31357>
